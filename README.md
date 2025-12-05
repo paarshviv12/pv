@@ -1,5 +1,5 @@
 # 💫 About Me:
-I✨ Developing mini-games to explore gameplay mechanics and design.<br>🎨 Learning Rive to create smooth UI/UX micro-animations.<br>🧩 Experimenting with interaction design to make interfaces feel alive.<br>🚀 Building small prototypes to sharpen my game dev workflow.<br>💡 Improving motion skills through real-time vector animation.
+✨ Developing mini-games to explore gameplay mechanics and design.<br>🎨 Learning Rive to create smooth UI/UX micro-animations.<br>🧩 Experimenting with interaction design to make interfaces feel alive.<br>🚀 Building small prototypes to sharpen my game dev workflow.<br>💡 Improving motion skills through real-time vector animation.
 
 
 ## 🌐 Socials:
